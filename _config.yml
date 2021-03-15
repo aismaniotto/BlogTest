@@ -28,6 +28,7 @@ baseurl: "https://aismaniotto.github.io/BlogTest/" # the subpath of your site, e
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+root: /
 
 # Build settings
 theme: minima
